@@ -1,1 +1,1 @@
-# Single-linear-regression-example
+# Linear-regression-example
