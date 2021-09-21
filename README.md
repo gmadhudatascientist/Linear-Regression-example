@@ -1,1 +1,1 @@
-# Linear-regression-example
+# Linear Regression(Single and Multiple)-example
